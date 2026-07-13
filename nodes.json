@@ -1,0 +1,15 @@
+{
+    "network": "ALTRA",
+
+    "version": "0.3",
+
+    "nodes": [
+        {
+            "node_id": "ASN-001",
+            "name": "Altra Super Node",
+            "type": "super_node",
+            "api": "http://127.0.0.1:5000",
+            "status": "online"
+        }
+    ]
+}
